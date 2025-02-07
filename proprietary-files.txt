@@ -1,4 +1,4 @@
-# Device proprietary files - from CPH2381_14.0.0.930(EX01) build, unless pinned
+# Device proprietary files - from CPH2381_14.0.0.932(EX01) build, unless pinned
 
 # ADSP modules
 odm/lib/rfsa/adsp/libarc_gk_pt_hvx_skel.so
