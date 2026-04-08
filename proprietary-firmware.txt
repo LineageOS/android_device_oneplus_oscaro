@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from CPH2381_14.0.0.2400(EX01).
+## are from CPH2381_14.0.0.2700(EX01).
 
 abl.img;AB
 bluetooth.img;AB
