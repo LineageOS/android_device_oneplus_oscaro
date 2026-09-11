@@ -25,8 +25,8 @@ PRODUCT_MANUFACTURER := oneplus
 PRODUCT_GMS_CLIENTID_BASE := android-oppo
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="OP535DL1-user 14 UKQ1.230924.001 S.23d3b43-3-2 release-keys" \
-    BuildFingerprint=OnePlus/CPH2381/OP535DL1:14/UKQ1.230924.001/S.23d3b43-3-2:user/release-keys \
+    BuildDesc="OP535DL1-user 14 UKQ1.230924.001 S.2558780-20402-20401 release-keys" \
+    BuildFingerprint=OnePlus/CPH2381/OP535DL1:14/UKQ1.230924.001/S.2558780-20402-20401:user/release-keys \
     DeviceName=OP535DL1 \
     DeviceProduct=OP535DL1 \
     SystemDevice=OP535DL1 \
