@@ -1112,6 +1112,9 @@ vendor/firmware/ipa_fws.mdt
 # NFC - from CPH2465_14.0.0.901(EX01)
 odm/etc/nfc/libnfc-nxp_RF.conf_22872:vendor/libnfc-nxp_RF.conf|ec64a0478bec5024aa9eeab6bf15b2c6a6c66369
 
+# OPLUS Log Core - from CPH2467_15.0.0.1910(EX01)
+odm/lib64/libolc_vnd.so|7ec00a916bb04dcc1b2b0d13344620a812104598
+
 # Sensors
 odm/etc/sensor.cfg
 odm/etc/sensor/config/alsps.json
