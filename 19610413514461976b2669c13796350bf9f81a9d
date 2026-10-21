@@ -1,5 +1,23 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cf586dfe_0f12da96",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-10-21T15:58:16Z",
+      "side": 1,
+      "message": "Seems like you discarded *all* previous fixes? Like removal of vorbis offload, a2dp input hal, earpiece mask, qti bluetooth hal etc.",
+      "revId": "19610413514461976b2669c13796350bf9f81a9d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
